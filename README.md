@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlieAlbert
-- 👀 I’m interested in software programming
+-  I’m interested in software programming
 - 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ReactJS projects
+-  I’m looking to collaborate on ReactJS projects
 - 📫 How to reach me - Email: charlieraph36@gmail.com
 
 <!---
