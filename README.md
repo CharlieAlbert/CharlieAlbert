@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlieAlbert
--  I’m interested in software programming
-- 🌱 I’m currently learning ReactJS
--  I’m looking to collaborate on ReactJS projects
+-  I am a software developer.
+- I have mostly worked with the MERN stack but also enjoy working with Python.
+-  I am open for collaboration and brainstorming.
 - 📫 How to reach me - Email: charlieraph36@gmail.com
 
 <!---
