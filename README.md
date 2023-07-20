@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharlieAlbert
+- Hello👋, I’m @CharlieAlbert
 -  I am a software developer.
 - I have mostly worked with the MERN stack but also enjoy working with Python.
 -  I am open for collaboration and brainstorming.
