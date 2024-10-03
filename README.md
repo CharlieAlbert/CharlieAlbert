@@ -1,6 +1,7 @@
 - Hello👋, I’m @CharlieAlbert
 -  I am a software developer.
-- I have mostly worked with the MERN stack but also enjoy working with Python.
+- I am proficient with React, Typescript, MySQL, NodeJS.
+- I love APIs and have worked with RESTful and GraphQL.
 -  I am open for collaboration and brainstorming.
 - 📫 How to reach me - Email: charlieraph36@gmail.com
 
