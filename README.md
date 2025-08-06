@@ -1,11 +1,21 @@
-- Hello👋, I’m @CharlieAlbert
--  I am a software developer.
-- I am proficient with React, Typescript, MySQL, NodeJS.
-- I love APIs and have worked with RESTful and GraphQL.
--  I am open for collaboration and brainstorming.
-- 📫 How to reach me - Email: charlieraph36@gmail.com
+# 👋 Hi, I'm Charlie Albert
 
-<!---
-CharlieAlbert/CharlieAlbert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer focused on building scalable, efficient, and user-friendly applications. My expertise spans both frontend and backend development, with hands-on experience in:
+
+- 🧠 **Languages & Tools:** TypeScript, Go, Python, JavaScript, Node.js, MySQL  
+- ⚛️ **Frontend:** React (with TailwindCSS, Ant Design, shadcn/ui)  
+- 🛠️ **Backend:** RESTful APIs, GraphQL, Express.js, Go Fiber  
+- 💾 **Databases:** MySQL, PostgreSQL, Prisma ORM  
+- 🔧 **Dev Tools:** Git, VS Code, Postman, Docker  
+- ☁️ **Cloud & Hosting:** AWS (Lambda, EC2, S3, Amplify, CloudFront), Supabase, Vercel
+
+### 🤝 I'm open to:
+- Collaborations on full-time work or freelance projects
+- Brainstorming and discussing software ideas
+- Building impactful tools and scalable systems
+
+### 📫 How to reach me:
+- 🌐 Website: [thisguycharles.netlify.app](https://thisguycharles.netlify.app)
+- 📧 Email: [charlieraph36@gmail.com](mailto:charlieraph36@gmail.com)
+
+> *"Great software is built through collaboration, curiosity, and consistency."*
