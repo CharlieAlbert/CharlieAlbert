@@ -2,7 +2,7 @@
 
 I'm a passionate software developer focused on building scalable, efficient, and user-friendly applications. My expertise spans both frontend and backend development, with hands-on experience in:
 
-- 🧠 **Languages & Tools:** TypeScript, Go, Python, JavaScript, Node.js, MySQL  
+- 🧠 **Languages & Tools:** TypeScript, Go, Python, JavaScript, Node.js, SQL  
 - ⚛️ **Frontend:** React (with TailwindCSS, Ant Design, shadcn/ui)  
 - 🛠️ **Backend:** RESTful APIs, GraphQL, Express.js, Go Fiber  
 - 💾 **Databases:** MySQL, PostgreSQL, Prisma ORM  
