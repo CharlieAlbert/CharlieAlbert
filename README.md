@@ -15,7 +15,7 @@ I'm a passionate software developer focused on building scalable, efficient, and
 - Building impactful tools and scalable systems
 
 ### 📫 How to reach me:
-- 🌐 Website: [thisguycharles.netlify.app](https://charlesnderitu.com)
+- 🌐 Website: [charlesnderitu.com](https://charlesnderitu.com)
 - 📧 Email: [charlieraph36@gmail.com](mailto:charlieraph36@gmail.com)
 
 > *"Great software is built through collaboration, curiosity, and consistency."*
